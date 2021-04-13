@@ -1,0 +1,13 @@
+{
+  "name": "shady-search",
+  "description": "Shady Business search functions",
+  "version": "0.0.6",
+  "contributors": [ ],
+  "dependencies": {
+    "underscore": "1.8.3",
+    "elasticsearch": "11.0.1",
+    "async": "2.0.0-rc.3"
+  },
+  "main": "./lib",
+  "readmeFilename": "README.md"
+}
